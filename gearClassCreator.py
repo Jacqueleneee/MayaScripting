@@ -1,3 +1,4 @@
+# Import maya command library so python can interact with Maya commands
 from maya import cmds
 
 
